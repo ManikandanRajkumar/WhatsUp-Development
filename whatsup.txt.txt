@@ -8,3 +8,5 @@ WhatsUp code :
 6. Single tick code 
 7. Double tick code
 8. Blue tick code
+
+9. Add Audio and video calls code
