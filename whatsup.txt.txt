@@ -4,5 +4,7 @@ WhatsUp code :
 2. Last seen code
 3. Chat screen code
 4. Status screen code
-
-5.Download images and videos code
+5. Download images and videos code
+6. DP code
+7. Name code
+8. About code
