@@ -5,6 +5,9 @@ WhatsUp code :
 3. Chat screen code
 4. Status screen code
 5. Download images and videos code
-6. DP code
-7. Name code
-8. About code
+6.
+7.
+8.
+9.Single tick code 
+10. Double tick code
+11. Blue tick code
